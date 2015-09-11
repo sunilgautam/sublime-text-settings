@@ -1,0 +1,28 @@
+<snippet>
+    <content><![CDATA[
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>${1:Starlight}</title>
+    <link rel="stylesheet" type="text/css" href="${2:../}starlight.css?<?php echo round(microtime(true) * 1000) ?>">
+
+    <script type="text/javascript" src="${2:../}jquery.min.js"></script>
+    <script type="text/javascript" src="${2:../}csstarlets_1.2_original.js?<?php echo round(microtime(true) * 1000) ?>"></script>
+    <script type="text/javascript">
+        var my_${3:control};
+        \$(function() {
+            my_${3:control} = Starlight().${4:Starlet}({ domobj: \$('${5:body}') });
+        });
+    </script>
+</head>
+<body style="margin: 0; padding: 40px; height: 600px;">
+    $6
+</body>
+</html>
+]]></content>
+<tabTrigger>star</tabTrigger>
+<scope>text.html</scope>
+<description>Seperator</description>
+</snippet>

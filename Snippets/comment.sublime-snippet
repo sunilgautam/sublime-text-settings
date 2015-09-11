@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+/*------------------- $1 -------------------*/$0
+]]></content>
+<tabTrigger>comment</tabTrigger>
+<scope>source.js,source.js.embedded.html,source.css,source.css.embedded.html</scope>
+<description>Comment seperator /*--*/</description>
+</snippet>

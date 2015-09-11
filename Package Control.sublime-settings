@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Case Conversion",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"GitHub Flavored Markdown Preview",
+		"JsFormat",
+		"Material Theme",
+		"Package Control",
+		"Predawn",
+		"Sass",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeREPL",
+		"Theme - itg.flat",
+		"Theme - Spacegray",
+		"Tomorrow Color Schemes"
+	]
+}

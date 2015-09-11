@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+var ${1:func_name} = function(${2}) {
+    ${3}
+};
+]]></content>
+<tabTrigger>varfunc</tabTrigger>
+<scope>source.js,source.js.embedded.html</scope>
+<description>Variable function</description>
+</snippet>

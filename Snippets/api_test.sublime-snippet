@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+// tests
+public function it_$1(ApiTester \$I)
+{
+    // Arrange
+    \$I->have('App\Models\\$3', [$4], ${5:1});
+
+    // Act
+    $6
+
+    //Assert
+    $7
+}
+]]></content>
+    <tabTrigger>api_test</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
