@@ -1,0 +1,10 @@
+[
+    { "keys": ["ctrl+alt+n"], "command": "side_bar_new_file2" },
+    { "keys": ["ctrl+alt+r"], "command": "side_bar_rename" },
+    { "keys": ["ctrl+alt+d"], "command": "side_bar_duplicate" },
+    { "keys": ["ctrl+alt+b"], "command": "reveal_in_side_bar" },
+    { "keys": ["ctrl+alt+m"], "command": "side_bar_move" },
+    { "keys": ["ctrl+alt+q"], "command": "side_bar_delete" },
+    { "keys": ["ctrl+alt+c"], "command": "side_bar_copy_name" },
+    { "keys": ["ctrl+alt+l"], "command": "refresh_folder_list" }
+]
