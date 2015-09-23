@@ -2,7 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"auto_complete": false,
 	"bold_folder_labels": true,
-	"caret_extra_width": 10,
+	"caret_extra_width": 1,
 	"caret_style": "blink",
 	"color_scheme": "Packages/User/My-Themes/Solarized (Dark) (MY).tmTheme",
 	"detect_indentation": true,
