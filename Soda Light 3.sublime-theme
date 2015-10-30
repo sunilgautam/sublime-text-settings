@@ -1,0 +1,13 @@
+[
+    {
+        "class": "tabset_control",
+        "tab_height": 30
+    },
+    {
+        "class": "tab_label",
+        "settings": ["highlight_modified_tabs"],
+        "parents": [{"class": "tab_control", "attributes": ["dirty"]}],
+        "fg": [244, 67, 54],
+        "font.bold": true
+    }
+]
