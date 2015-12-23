@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[console.log(${2:'${1:called}'});]]></content>
+    <content><![CDATA[console.${3:log}(${2:'${1:called}'});]]></content>
     <tabTrigger>clog</tabTrigger>
     <scope>source.js,source.js.embedded.html</scope>
     <description>Console log</description>
