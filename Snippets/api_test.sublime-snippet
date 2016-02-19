@@ -3,14 +3,16 @@
 // tests
 public function it_$1(ApiTester \$I)
 {
+    \$I->wantTo${2:Test}('$3');
+
     // Arrange
-    \$I->have('App\Models\\$3', [$4], ${5:1});
+    \$I->have('App\Models\\$4', [$5], ${6:1});
 
     // Act
-    $6
-
-    //Assert
     $7
+
+    // Assert
+    $8
 }
 ]]></content>
     <tabTrigger>api_test</tabTrigger>
