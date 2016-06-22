@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+// tests
+public function it_$1(FunctionalTester \$I)
+{
+    \$I->wantTo${2:Test}('$3');
+
+    // Arrange
+    \$I->have('App\Models\\$4', [$5], ${6:1});
+
+    // Act
+    $7
+
+    // Assert
+    $8
+}
+]]></content>
+    <tabTrigger>func_test</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
