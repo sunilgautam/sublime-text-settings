@@ -1,0 +1,28 @@
+<snippet>
+    <content><![CDATA[
+'use strict';
+import React, { Component } from 'react';
+import {
+  StyleSheet,
+  $1
+} from 'react-native';
+
+class ${2:NewComponent} extends Component {
+  render() {
+    return (
+      $0
+    );
+  }
+}${3:
+const styles = StyleSheet.create(\{
+  container: \{
+    flex: 1,
+  \},
+\});}
+
+export default ${2:NewComponent};
+]]></content>
+    <tabTrigger>react</tabTrigger>
+    <scope>source.js,source.js.embedded.html</scope>
+    <description>React es 6 class</description>
+</snippet>
