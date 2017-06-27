@@ -8,15 +8,20 @@
         "lint_mode": "background",
         "linters": {
             "csslint": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "errors": "",
                 "excludes": [],
                 "ignore": "",
                 "warnings": ""
             },
-            "jshint": {
+            "eslint": {
                 "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "jshint": {
+                "@disable": true,
                 "args": [],
                 "excludes": []
             },
@@ -24,9 +29,14 @@
                 "@disable": false,
                 "args": [],
                 "excludes": []
+            },
+            "sass": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
             }
         },
-        "mark_style": "outline",
+        "mark_style": "solid underline",
         "no_column_highlights_line": false,
         "passive_warnings": false,
         "paths": {
@@ -54,6 +64,10 @@
             "php": "html",
             "python django": "python"
         },
+        "tooltip_fontsize": "1rem",
+        "tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
+        "tooltip_theme_excludes": [],
+        "tooltips": false,
         "warning_color": "DDB700",
         "wrap_find": true
     }

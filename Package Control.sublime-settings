@@ -13,6 +13,9 @@
 		"Emmet",
 		"GitHub Flavored Markdown Preview",
 		"JsFormat",
+		"JsPrettier",
+		"MarkdownEditing",
+		"Material Theme",
 		"Package Control",
 		"Predawn",
 		"Sass",
@@ -20,13 +23,15 @@
 		"Solarized Color Scheme",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-csslint",
-		"SublimeLinter-jshint",
 		"SublimeLinter-php",
 		"SublimeREPL",
 		"Theme - itg.flat",
 		"Theme - Soda",
 		"Theme - Spacegray",
+		"TodoReview",
 		"Tomorrow Color Schemes"
 	]
 }

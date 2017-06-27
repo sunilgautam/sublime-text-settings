@@ -6,5 +6,8 @@
     { "keys": ["ctrl+alt+m"], "command": "side_bar_move" },
     { "keys": ["ctrl+alt+q"], "command": "side_bar_delete" },
     { "keys": ["ctrl+alt+c"], "command": "side_bar_copy_name" },
-    { "keys": ["ctrl+alt+l"], "command": "refresh_folder_list" }
+    { "keys": ["ctrl+alt+l"], "command": "refresh_folder_list" },
+    { "keys": ["ctrl+k", "ctrl+h"], "command": "convert_to_dash" },
+    { "keys": ["ctrl+k", "ctrl+c"], "command": "convert_to_camel" },
+    { "keys": ["ctrl+k", "ctrl+p"], "command": "convert_to_pascal" }
 ]

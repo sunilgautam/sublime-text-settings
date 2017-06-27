@@ -1,0 +1,6 @@
+{
+  "preferences": {
+    "sass.valueSeparator": ": ",
+    "sass.propertyEnd": ";"
+  },
+}
