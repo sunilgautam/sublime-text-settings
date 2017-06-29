@@ -1,0 +1,13 @@
+[
+    { "keys": ["super+ctrl+n"], "command": "side_bar_new_file2" },
+    { "keys": ["super+ctrl+r"], "command": "side_bar_rename" },
+    { "keys": ["super+ctrl+d"], "command": "side_bar_duplicate" },
+    { "keys": ["super+ctrl+b"], "command": "reveal_in_side_bar" },
+    { "keys": ["super+ctrl+m"], "command": "side_bar_move" },
+    { "keys": ["super+ctrl+q"], "command": "side_bar_delete" },
+    { "keys": ["super+ctrl+c"], "command": "side_bar_copy_name" },
+    { "keys": ["super+ctrl+l"], "command": "refresh_folder_list" },
+    { "keys": ["super+k", "super+h"], "command": "convert_to_dash" },
+    { "keys": ["super+k", "super+c"], "command": "convert_to_camel" },
+    { "keys": ["super+k", "super+p"], "command": "convert_to_pascal" }
+]
