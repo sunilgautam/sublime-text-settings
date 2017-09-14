@@ -33,6 +33,7 @@
 	"material_theme_small_tab": true,
 	"save_on_focus_lost": true,
 	"show_full_path": true,
+	"show_line_endings": true,
 	"soda_folder_icons": false,
 	"tab_size": 2,
 	"theme": "Material-Theme.sublime-theme",

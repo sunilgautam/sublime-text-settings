@@ -9,5 +9,7 @@
     { "keys": ["ctrl+alt+l"], "command": "refresh_folder_list" },
     { "keys": ["ctrl+k", "ctrl+h"], "command": "convert_to_dash" },
     { "keys": ["ctrl+k", "ctrl+c"], "command": "convert_to_camel" },
-    { "keys": ["ctrl+k", "ctrl+p"], "command": "convert_to_pascal" }
+    { "keys": ["ctrl+k", "ctrl+p"], "command": "convert_to_pascal" },
+    { "keys": ["ctrl+k", "ctrl+s"], "command": "convert_to_snake" },
+    { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" }
 ]
