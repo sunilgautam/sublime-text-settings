@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+import React from 'react';
+
+const ${1:ComponentName} = () => (
+  ${2:<div>Hello from ${1:ComponentName}</div>}$0
+);
+
+export default ${1:ComponentName};
+
+]]></content>
+  <tabTrigger>react-dumb</tabTrigger>
+  <scope>source.js</scope>
+  <description>React dumb component</description>
+</snippet>

@@ -29,7 +29,7 @@ const styles = StyleSheet.create(\{
 
 export default ${2:NewComponent};
 ]]></content>
-    <tabTrigger>react</tabTrigger>
+    <tabTrigger>react-native</tabTrigger>
     <scope>source.js,source.js.embedded.html</scope>
     <description>React es 6 component</description>
 </snippet>

@@ -11,5 +11,15 @@
     { "keys": ["ctrl+k", "ctrl+c"], "command": "convert_to_camel" },
     { "keys": ["ctrl+k", "ctrl+p"], "command": "convert_to_pascal" },
     { "keys": ["ctrl+k", "ctrl+s"], "command": "convert_to_snake" },
-    { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" }
+    { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
+    { "keys": ["ctrl+alt+s"], "command": "trim_trailing_white_space" },
+    {"keys": ["tab"], "command": "expand_abbreviation_by_tab", "context":
+      [
+        { "operand": "source.js", "operator": "equal", "match_all": true, "key": "selector" },
+        { "match_all": true, "key": "selection_empty" },
+        { "operator": "equal", "operand": false, "match_all": true, "key": "has_next_field" },
+        { "operand": false, "operator": "equal", "match_all": true, "key": "auto_complete_visible" },
+        { "match_all": true, "key": "is_abbreviation" }
+      ]
+    }
 ]

@@ -4,7 +4,7 @@
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "blink",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": true,
 	"draw_white_space": "all",
@@ -19,15 +19,15 @@
 		".sass-cache"
 	],
 	"font_face": "Fira Code",
-	"font_size": 15,
+	"font_size": 16,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 5,
-	"line_padding_top": 5,
+	"line_padding_bottom": 6,
+	"line_padding_top": 6,
 	"material_theme_arrow_folders": true,
 	"material_theme_bold_tab": true,
 	"material_theme_small_tab": true,
@@ -36,7 +36,7 @@
 	"show_line_endings": true,
 	"soda_folder_icons": false,
 	"tab_size": 2,
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
 	"use_tab_stops": true,
