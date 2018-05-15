@@ -10,3 +10,4 @@ SublimeLinter/*.tmTheme
 oscrypto-ca-bundle.crt
 Package\ Control.last-run
 Package\ Control.user-ca-bundle
+Snippets/project-snippets/

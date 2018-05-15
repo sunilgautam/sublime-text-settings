@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-import ${2:${1:package}} from '${1:package}';
+import ${1:\{ $2 \}} from '$3';$0
 ]]></content>
   <tabTrigger>import</tabTrigger>
   <scope>source.js</scope>
