@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+for (let ${2:i} = 0; ${2:i} < ${1:Things}.length; ${2:i}++) {
+	${3:${1:Things}[${2:i}]}$0
+}
+]]></content>
+  <tabTrigger>for-es6</tabTrigger>
+  <scope>source.js</scope>
+  <description>For loop es6</description>
+</snippet>

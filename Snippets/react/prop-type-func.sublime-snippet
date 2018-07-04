@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+PropTypes.func${1:.isRequired},$0
+]]></content>
+  <tabTrigger>ptf</tabTrigger>
+  <scope>source.js</scope>
+  <description>Proptypes func</description>
+</snippet>

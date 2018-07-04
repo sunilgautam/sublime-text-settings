@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+for (let ${2:i} = 0; ${2:i} < ${1:10}; ${2:i}++) {
+	$0
+}
+]]></content>
+  <tabTrigger>forntimes-es6</tabTrigger>
+  <scope>source.js</scope>
+  <description>For loop n times es6</description>
+</snippet>

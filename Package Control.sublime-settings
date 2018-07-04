@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"AutoFileName",
 		"Babel",
 		"Case Conversion",
 		"ColorPicker",
