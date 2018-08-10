@@ -3,7 +3,6 @@
 ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}}.propTypes = {
 	$0
 };
-
 ]]></content>
   <tabTrigger>ptdef</tabTrigger>
   <scope>source.js</scope>

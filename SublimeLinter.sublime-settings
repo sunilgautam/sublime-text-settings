@@ -22,8 +22,8 @@
     "show_hover_line_report": true,
     "show_hover_region_report": true,
     "show_marks_in_minimap": true,
-    "statusbar.counters_template": "W: {warning} E: {error}",
-    "statusbar.messages_template": "{messages}",
+    "statusbar.counters_template": "(w:{}, e:{})",
+    "statusbar.messages_template": "{linter}:{type}:[{code}] {message}",
     "styles": [
         {
             "mark_style": "solid_underline",

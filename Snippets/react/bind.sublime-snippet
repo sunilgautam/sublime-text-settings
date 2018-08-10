@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+this.$0 = this.$0.bind(this);
+]]></content>
+  <tabTrigger>bind</tabTrigger>
+  <scope>source.js</scope>
+  <description>Class func bind</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+PropTypes.shape({
+	$0
+})${1:.isRequired},
+]]></content>
+  <tabTrigger>ptshape</tabTrigger>
+  <scope>source.js</scope>
+  <description>Proptypes shape</description>
+</snippet>

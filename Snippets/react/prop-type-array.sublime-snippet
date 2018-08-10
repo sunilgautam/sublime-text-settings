@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
-PropTypes.arrayOf(PropTypes.shape({
+PropTypes.arrayOf(${2:PropTypes.shape({
 	$0
-}))${1:.isRequired},
+\})})${1:.isRequired},
 ]]></content>
   <tabTrigger>ptar</tabTrigger>
   <scope>source.js</scope>
-  <description>Proptypes string</description>
+  <description>Proptypes array</description>
 </snippet>
