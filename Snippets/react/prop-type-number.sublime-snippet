@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+PropTypes.number${1:.isRequired},$0
+]]></content>
+  <tabTrigger>ptnum</tabTrigger>
+  <scope>source.js</scope>
+  <description>Proptypes number</description>
+</snippet>

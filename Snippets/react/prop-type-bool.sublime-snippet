@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+PropTypes.bool${1:.isRequired},$0
+]]></content>
+  <tabTrigger>ptbool</tabTrigger>
+  <scope>source.js</scope>
+  <description>Proptypes boolean</description>
+</snippet>
